@@ -31,9 +31,10 @@
 
 🔭 I’m currently working on [Paint Mosaic](https://github.com/AaishaR/Paint-Mosaic)
 
+<!--
 ### Stats
 [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aaishar&langs_count=7&theme=tokyonight)]()
-
+-->
 ![snake](https://github.com/aaishar/aaishar/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
